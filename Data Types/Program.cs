@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿// First type of data: storing plain text
+string phrase = "Giraffe Academy";
+char grade = 'A';
+
