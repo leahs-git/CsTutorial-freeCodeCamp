@@ -22,4 +22,8 @@ Console.WriteLine(phrase.Contains("voi"));
 //printout the index of the character in the string
 Console.WriteLine(phrase[0]);
 
+//this will tell me if the string contains a certain value and at what location it is held
+Console.WriteLine(phrase.IndexOf("o"));
+
+
 
