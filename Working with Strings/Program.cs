@@ -25,5 +25,6 @@ Console.WriteLine(phrase[0]);
 //this will tell me if the string contains a certain value and at what location it is held
 Console.WriteLine(phrase.IndexOf("o"));
 
+Console.WriteLine(phrase.Substring(9, 3));
 
 
