@@ -8,6 +8,7 @@ Console.WriteLine("Good\"Day");
 
 string phrase = "...Good Day" + "Voi ei";
 
-//concatenation
-Console.WriteLine(phrase); 
+//find number of characters inside the string. Inculding punctuation and spaces.
+Console.WriteLine(phrase.Length); 
+
 
