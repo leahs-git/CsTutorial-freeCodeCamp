@@ -16,3 +16,6 @@ Console.WriteLine(phrase.Length);
 Console.WriteLine(phrase.ToUpper());
 Console.WriteLine(phrase.ToLower());
 
+//Looking for contents within the string
+Console.WriteLine(phrase.Contains("voi"));
+
