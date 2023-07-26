@@ -22,3 +22,14 @@ Console.WriteLine(5 + 8.1);
 Console.WriteLine(5 / 2);
 //This gives a double back
 Console.WriteLine(5 / 2.0);
+
+//Store numbers inside of variables
+
+int num = 6;
+Console.WriteLine(num);
+num++;
+Console.WriteLine(num);
+num--;
+Console.WriteLine(num);
+
+
