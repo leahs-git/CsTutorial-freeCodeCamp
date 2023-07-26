@@ -6,9 +6,13 @@ Console.WriteLine("Good\"Day");
 
 //store a string as a variable
 
-string phrase = "...Good Day" + "Voi ei";
+string phrase = "-...Good Day" + " -Voi ei";
 
 //find number of characters inside the string. Inculding punctuation and spaces.
 Console.WriteLine(phrase.Length); 
 
+//using methods to find out or modify strings
+
+Console.WriteLine(phrase.ToUpper());
+Console.WriteLine(phrase.ToLower());
 
