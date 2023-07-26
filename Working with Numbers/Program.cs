@@ -32,4 +32,16 @@ Console.WriteLine(num);
 num--;
 Console.WriteLine(num);
 
+//Calling a method to do arithmetic for me
+
+Console.WriteLine(Math.Abs(-40));
+Console.WriteLine(Math.Pow(3, 2));
+Console.WriteLine(Math.Pow(3, -2));
+
+//These also work with decimal numbers
+Console.WriteLine(Math.Pow(9, 0.5));
+Console.WriteLine(Math.Pow(0.25, 0.5));
+
+
+
 
