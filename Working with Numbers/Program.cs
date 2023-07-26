@@ -17,3 +17,7 @@ Console.WriteLine((4 + 2) * 3);
 
 Console.WriteLine(5.0 + 8.1);
 Console.WriteLine(5 + 8.1);
+
+//This only contains integers therefore the result will be an integer despite not being mathematically correct
+Console.WriteLine(5 / 2);
+Console.WriteLine(5 / 2.0);
