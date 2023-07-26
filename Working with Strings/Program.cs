@@ -19,3 +19,7 @@ Console.WriteLine(phrase.ToLower());
 //Looking for contents within the string
 Console.WriteLine(phrase.Contains("voi"));
 
+//printout the index of the character in the string
+Console.WriteLine(phrase[0]);
+
+
