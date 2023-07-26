@@ -44,6 +44,15 @@ Console.WriteLine(Math.Pow(0.25, 0.5));
 Console.WriteLine(Math.Sqrt(81));
 Console.WriteLine(Math.Sqrt(0.25));
 
+//Allegedly, it will prove useful to have the program identify which of a pair of numbers is bigger. Like so:
+Console.WriteLine(Math.Max(4, -90));
+Console.WriteLine(Math.Min(4, -90));
+
+//Rounding
+Console.WriteLine(Math.Round(1.5));
+
+
+
 
 
 
