@@ -41,6 +41,8 @@ Console.WriteLine(Math.Pow(3, -2));
 //These also work with decimal numbers
 Console.WriteLine(Math.Pow(9, 0.5));
 Console.WriteLine(Math.Pow(0.25, 0.5));
+Console.WriteLine(Math.Sqrt(81));
+Console.WriteLine(Math.Sqrt(0.25));
 
 
 
