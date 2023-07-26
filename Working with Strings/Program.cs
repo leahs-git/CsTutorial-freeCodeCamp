@@ -6,7 +6,8 @@ Console.WriteLine("Good\"Day");
 
 //store a string as a variable
 
-string phrase = "...Good Day";
-Console.WriteLine(phrase);
+string phrase = "...Good Day" + "Voi ei";
 
+//concatenation
+Console.WriteLine(phrase); 
 
