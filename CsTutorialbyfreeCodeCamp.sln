@@ -13,7 +13,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Data Types", "Data Types\Da
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Working with Strings", "Working with Strings\Working with Strings.csproj", "{03B9DC6C-F44A-4568-9246-E6E7D8F6DEF5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Working with Numbers", "Working with Numbers\Working with Numbers.csproj", "{E8E7B3D5-3CA6-4818-B32D-66748E5D9E57}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Working with Numbers", "Working with Numbers\Working with Numbers.csproj", "{E8E7B3D5-3CA6-4818-B32D-66748E5D9E57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Getting User Input", "Getting User Input\Getting User Input.csproj", "{168F3614-DD83-4119-A1CC-3B6AB8EE3D88}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{E8E7B3D5-3CA6-4818-B32D-66748E5D9E57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8E7B3D5-3CA6-4818-B32D-66748E5D9E57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8E7B3D5-3CA6-4818-B32D-66748E5D9E57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{168F3614-DD83-4119-A1CC-3B6AB8EE3D88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{168F3614-DD83-4119-A1CC-3B6AB8EE3D88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{168F3614-DD83-4119-A1CC-3B6AB8EE3D88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{168F3614-DD83-4119-A1CC-3B6AB8EE3D88}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
